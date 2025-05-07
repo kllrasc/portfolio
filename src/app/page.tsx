@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100">
@@ -22,12 +20,12 @@ export default function Home() {
         <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">About Me</h2>
         <div className="max-w-3xl mx-auto">
           <p className="text-gray-600 mb-6">
-            I'm a passionate developer with a keen eye for design and a love for creating
+            I&apos;m a passionate developer with a keen eye for design and a love for creating
             beautiful, functional web applications. With expertise in modern web technologies,
             I strive to build solutions that make a difference.
           </p>
           <p className="text-gray-600">
-            When I'm not coding, you can find me exploring new technologies, contributing to
+            When I&apos;m not coding, you can find me exploring new technologies, contributing to
             open-source projects, or sharing my knowledge with the developer community.
           </p>
         </div>
